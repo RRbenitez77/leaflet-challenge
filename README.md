@@ -1,4 +1,4 @@
-Here i created a dashboard that visualizes earthquake occurrances,GeoJson with Leaflet to encode georgrapic data structures.
+In this project a dashboard was created that visualizes earthquake occurrances. Utilized GeoJson standard format with Leaflet to encode georgrapic data structures.
 
  U.S. Geological Survey (USGS) site was used to source the data, the USGS provides earthquake data in different formats, updated every 5 minutes. On the USGS GeoJSON Feed page and when we click on 'All Earthquakes from the Past 7 Days', it gives a JSON representation of that data.
 
